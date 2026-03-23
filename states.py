@@ -1,0 +1,16 @@
+# Conversation states
+(
+    LANGUAGE,
+    MAIN_MENU,
+    MOBILE_NETWORK,
+    MOBILE_TYPE,
+    MOBILE_PACKAGE,
+    MOBILE_NUMBER,
+    GAME_SELECT,
+    GAME_PACKAGE,
+    GAME_ID,
+    APP_SELECT,
+    APP_PACKAGE,
+    PAYMENT_METHOD,
+    AWAITING_RECEIPT,
+) = range(13)
